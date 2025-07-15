@@ -22,24 +22,20 @@ Here are some ideas to get you started:
 ```python
 # I love Python
 print(monty_python.gif)
-````
+```
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=takiqy&label=Profile%20views&color=0e75b6&style=flat" alt="takiqy" />
 </p>
 
-<!-- LEFT-ALIGNED NOW -->
-
+<!-- GitHub Stats -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=takiqy&show_icons=true&theme=dark&hide_border=true" alt="takiqy stats" />
 </p>
 
+<!-- Top Languages -->
 <p>
-  <img src="https://api.githubtrends.io/user/svg/takiqy/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" alt="Top Repos" />
-</p>
-
-<p>
-  <img src="https://api.githubtrends.io/user/svg/takiqy/langs?include_private=true&compact=true&theme=dark" alt="Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiqy&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takiqy's top languages" />
 </p>
 
 ---

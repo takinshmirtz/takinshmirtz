@@ -23,22 +23,19 @@ Here are some ideas to get you started:
 # I love Python
 print(monty_python.gif)
 ```
-
+<!-- GitHub Stats
 <p>
   <img src="https://komarev.com/ghpvc/?username=takiqy&label=Profile%20views&color=0e75b6&style=flat" alt="takiqy" />
 </p>
 
-<!-- GitHub Stats -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=takiqy&show_icons=true&theme=dark&hide_border=true" alt="takiqy stats" />
 </p>
-
+-->
 <!-- Top Languages -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiqy&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takiqy's top languages" />
 </p>
-
----
 
 ### 🛠 Languages and Tools:
 <p>
@@ -63,8 +60,6 @@ print(monty_python.gif)
   </a>
 </p>
 
-
----
 
 ### 🌐 Connect with Me:
 

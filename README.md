@@ -32,10 +32,6 @@ print(monty_python.gif)
   <img src="https://github-readme-stats.vercel.app/api?username=takiqy&show_icons=true&theme=dark&hide_border=true" alt="takiqy stats" />
 </p>
 -->
-<!-- Top Languages -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiqy&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takiqy's top languages" />
-</p>
 
 ### 🛠 Languages and Tools:
 <p>
@@ -60,7 +56,12 @@ print(monty_python.gif)
   </a>
 </p>
 
+<!-- Top Languages -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiqy&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takiqy's top languages" />
+</p>
 
+<!-- 
 ### 🌐 Connect with Me:
 
 <p>
@@ -74,3 +75,4 @@ print(monty_python.gif)
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takiqy" height="30" width="40" />
   </a>
 </p>
+-->

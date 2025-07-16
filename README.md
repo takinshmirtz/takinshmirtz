@@ -1,7 +1,7 @@
 <!-- 
 ## Hi there 👋
 
-**takiqy/takiqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**takinshmirtz/takinshmirtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -58,7 +58,7 @@ print(monty_python.gif)
 
 <!-- Top Languages -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiqy&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takiqy's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takinshmirtz&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takinshmirtz's top languages" />
 </p>
 
 <!-- 

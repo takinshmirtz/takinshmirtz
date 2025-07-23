@@ -58,7 +58,7 @@ print(monty_python.gif)
 
 <!-- Top Languages -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takinshmirtz&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takinshmirtz's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakiMoretti&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takinshmirtz's top languages" />
 </p>
 
 <!-- 
